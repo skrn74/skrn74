@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saikiran Tiridu
 =======================================================================================================================================
 
-a Devops Engineer having experience on cicd pipelines very passionate on automating & deploying
------------------------------------------------------------------------------------------------
+a Devops Engineer with a passion
+--------------------------------
 
-I'm Saikiran and i am working as a DevOps Engineer with experience in AWS Cloud services, Jenkins CICD Pipelines, Containers and Microservices, Orchestration (Kubernetes), Terraform, Monitoring tools Prometheus and Grafana, CD tools like ArgoCD, Version Control Git and Github, Github Actions, Python, Shell Scripting.
+AWS Certified Solutions Architect - Associate 
+---------------------------------------------------------------------------------------------------------------- 
+DevOps & DevSecOps Enthusiast || Linux || AWS || Kubernetes || Docker || Terraform || Python || CICD
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [skrn74@gmail.com](mailto:skrn74@gmail.com)
