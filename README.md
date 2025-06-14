@@ -10,7 +10,7 @@ DevOps & DevSecOps Enthusiast || Linux || AWS || Kubernetes || Docker || Terrafo
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [skrn74@gmail.com](mailto:skrn74@gmail.com)
-* 🧠  Currently learning AI stuff
+* 🧠  Currently growing my expertise on kubernetes and AI stuff
 * 🔭  Completed some courses on Prompt Engineering
 * ⚡  I'm committed to continual learning, improvement, and making impactful contributions
 
